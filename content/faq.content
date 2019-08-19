@@ -1,0 +1,57 @@
+<div class="content">
+	<h2>FAQ</h2>
+	<h3>How do I import this nsm site repository template?</h3>
+	<h4>BitBucket:</h4>
+	<ol>
+		<li>Click the <mono>+</mono> on the left of the page then click on <mono>import repository</mono>.</li>
+		<li>Under <mono>URL</mono> enter <mono>https://bitbucket.org/nsm-templates/basic-site</mono>.</li>
+		<li>Under <mono>Owner</mono> select which team/user you would like to import the repository under.</li>
+		<li>Under <mono>Repository name</mono> choose a name for your repository.</li>
+		<li>Click <mono>Import repository</mono>.</li>
+	</ol>
+
+	<h4>GitHub:</h4>
+	<ol>
+		<li>Click the <mono>+</mono> on the top-right of the page then click on <mono>Import repository</mono>.</li>
+		<li>Under <mono>Your old repository’s clone URL</mono> enter <mono>https://github.com/nsm-templates/basic-site</mono></li>
+		<li>Under <mono>Owner</mono> select which organisation/user you would like to import the repository under.</li>
+		<li>Under <mono>Name</mono> choose a name for your repository.</li>
+		<li>Click <mono>Begin import</mono>.</li>
+	</ol>
+
+	<h4>GitLab:</h4>
+	<ol>
+		<li>Click the <mono>+</mono> on the top-right of the page then click on <mono>new project</mono>.</li>
+		<li>Select the <mono>Import project</mono> near the top-right of the page.</li>
+		<li>Select <mono>Repo by URL</mono>.</li>
+		<li>Under <mono>Git repository URL</mono> enter <mono>https://gitlab.com/nsm-templates/basic-site</mono></li>
+		<li>Under <mono>Project url</mono> select which group/user you would like to import the repository under.</li>
+		<li>Under <mono>Project name</mono> and <mono>Project slug</mono> choose a name for your repository.</li>
+		<li>Click <mono>Create project</mono>.</li>
+	</ol>
+
+	<h3>How do I fork this nsm site repository template?</h3>
+	<ol>
+		<li>Make sure you're logged in to BitBucket/GitHub/GitLab with your account.</li>
+		<li>On BitBucket, click the <mono>+</mono> on the left of the page then click on <mono>Fork this repository</mono>.</li>
+		<li>On GitHub/GitLab, click the <mono>Fork</mono> button on the upper right-hand side of the repository page.</li>
+	</ol>
+
+	<h3>How do I rename the forked repository?</h3>
+	<ol>
+		<li>Navigate to the main page of the forked repository.</li>
+		<li>Click Settings.</li>
+		<li>Under the <mono>Repository/Project name</mono> heading, enter the name you would like. On GitLab you will also need to navigate down to <mono>Advanced</mono> and change the path. 
+	</ol>
+
+	<h3>Can I remove the fork relationship?</h3>
+	<p>
+		On GitLab you can under the advanced part of the repository's settings, unfortunately on BitBucket and GitHub you cannot (try importing instead!).
+	</p>
+
+	<h3>How do I view the site locally?</h3>
+	<ol>
+		<li>Make a local clone of the repository on your computer.</li>
+		<li>open <mono>index.html</mono> with your browser of choice.</li>
+	</ol>
+</div>

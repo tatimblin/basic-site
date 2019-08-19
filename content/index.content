@@ -1,0 +1,18 @@
+<div class="content">
+	<h2>Basic Site Repository Template</h2>
+	<p>
+		This is the homepage for the nsm site repository template <mono>basic-site</mono> [<a href="https://bitbucket.org/nsm-templates/basic-site">BitBucket</a>, <a href="https://github.com/nsm-templates/basic-site">GitHub</a>, <a href="https://gitlab.com/nsm-templates/basic-site">GitLab</a>]. <a href="https://nift.cc">Nift</a> (nsm) is a cross-platform open source git-like and $\LaTeX$-like site manager coded in C++.
+	</p>
+
+	<p>
+		You can import (or fork and rename) the <mono>basic-site</mono> site repository template to begin making your own site with the same design.
+	</p>
+
+	<p>
+		See the <a href="@pathto(about)">About</a> page for information about adding/removing pages to/from your site and modifying the content/layout of your site.
+	</p>
+
+	<p>
+		See the <a href="@pathtopage(faq)">FAQ</a> page for how to import/fork this repository along with answers to other frequently asked questions.
+	</p>
+</div>

@@ -1,0 +1,16 @@
+<html>
+    <head>
+        @input(template/head.content)
+    </head>
+
+    <body>
+        @input(template/menu.content)
+
+        @inputcontent
+
+		@input(template/footer.content)
+
+		<script src='@pathtofile(site/js/process_pre_tags.js)'></script>
+    </body>
+</html>
+
