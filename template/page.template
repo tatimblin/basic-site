@@ -9,8 +9,6 @@
         @inputcontent
 
 		@input(template/footer.content)
-
-		<script src='@pathtofile(site/js/process_pre_tags.js)'></script>
     </body>
 </html>
 
