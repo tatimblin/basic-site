@@ -3,5 +3,5 @@
 
 	<a href="@pathto(index)" class="header_item">Home</a>
 	<a href="@pathto(about)" class="header_item">About</a>
-	<a href="@pathto(faq)" class="header_item">FAQ</a>
+	<a href="@pathto(faq)" class="header_item">Frequently Asked Questions</a>
 </div>
