@@ -16,3 +16,5 @@
 		See the <a href="@pathtopage(faq)">FAQ</a> page for how to import/fork this repository along with answers to other frequently asked questions.
 	</p>
 </div>
+
+@system{inject}("curl -sS https://jsonplaceholder.typicode.com/todos | groq '*[completed == true]{title, userId}' --pretty")
